@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pedalknife
-- 👀 I’m interested in Cyber InfoSec, Cyrpto and all things technology
-- 🌱 I’m currently learning Pen Testing, Python CISCO Networking
-- 💞️ I’m looking to collaborate on ANYTHING
+- 👀 I’m interested in CyberSecurity, Ethical Hacking, PENTESTING, Cloud Security and Blockchain Technology
+- 🌱 I’m currently learning Pen Testing, AZURE Security Engeineer, CCSP 
+- 💞️ I’m looking to collaborate on Anything CyberSecurity 
 - 📫 How to reach me ... HERE on Github 
   Twitter: @RobCrypto_
 
